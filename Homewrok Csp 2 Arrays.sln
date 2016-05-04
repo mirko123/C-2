@@ -5,6 +5,10 @@ VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Allocate array", "Homewrok Csp 2 Arrays\01. Allocate array.csproj", "{B0002F06-6DDA-415F-81D1-16223CC62C89}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Compare arrays", "02. Compare arrays\02. Compare arrays.csproj", "{78286344-F18C-4DB4-AD65-1AA27427669A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Compare char arrays", "03. Compare char arrays\03. Compare char arrays.csproj", "{0EF40D3B-4079-4F19-819E-813D7AF7AA81}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{B0002F06-6DDA-415F-81D1-16223CC62C89}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0002F06-6DDA-415F-81D1-16223CC62C89}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0002F06-6DDA-415F-81D1-16223CC62C89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78286344-F18C-4DB4-AD65-1AA27427669A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78286344-F18C-4DB4-AD65-1AA27427669A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78286344-F18C-4DB4-AD65-1AA27427669A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78286344-F18C-4DB4-AD65-1AA27427669A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EF40D3B-4079-4F19-819E-813D7AF7AA81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EF40D3B-4079-4F19-819E-813D7AF7AA81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EF40D3B-4079-4F19-819E-813D7AF7AA81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EF40D3B-4079-4F19-819E-813D7AF7AA81}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
