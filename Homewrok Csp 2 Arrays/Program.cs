@@ -1,15 +1,14 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace Homewrok_Csp_2_Arrays
+public class Arrays
 {
-    class Program
+    public static void Main()
     {
-        static void Main(string[] args)
+        int num = int.Parse(Console.ReadLine());
+        int[] numbers = new int[num];
+        for (int i = 0; i < num; i++)
         {
+            Console.WriteLine(i * 5);
         }
     }
 }
